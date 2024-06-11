@@ -8,7 +8,7 @@ Dependencies: flask, google-generativeai, python-dotenv
 - The input is passed through the API and the response is added to a list.
 - The user is redirected to index, where the list is displayed.
 
-To Run:
+**To Run:**
 - Install dependencies (flask, google-generative-ai, python-dotenv)
 - Make sure the API Key is valid.
 - Run main.py and go to the URL shown in the terminal
