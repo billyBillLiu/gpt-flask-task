@@ -1,5 +1,3 @@
-Dependencies: flask, google-generativeai, python-dotenv
-
 **Structure:**
 
 - 1 HTML file (index) and 1 Python file (main)
@@ -9,6 +7,6 @@ Dependencies: flask, google-generativeai, python-dotenv
 - The user is redirected to index, where the list is displayed.
 
 **To Run:**
-- Install dependencies (flask, google-generative-ai, python-dotenv)
+- Install dependencies (pip install flask google-generative-ai python-dotenv)
 - Make sure the API Key is valid.
 - Run main.py and go to the URL shown in the terminal
